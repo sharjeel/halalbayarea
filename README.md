@@ -7,7 +7,7 @@ My favorite Halal restaurants in Bay Area in descending order of cravings over t
 - Lahori Restaurant - `San Jose`
 - Maiwand Kabob House - `Santa Clara`
 - Kettlee's - `Santa Clara`
-- Al Forat Market - `Sunnyvale`
+- Bundoo Khan - `Fremont`
 - Mirchi - `Fremont`
 - Jubba - `San Jose`
 - YeeShaans Grubb - `San Mateo`
@@ -31,8 +31,8 @@ My favorite Halal restaurants in Bay Area in descending order of cravings over t
 
 ### Late Night Options:
 - Chicken G - `Mountain View, Fremont`
-- Bundoo Khan, Fremont
-- `Zeugma Kebab - San Jose`
+- Bundoo Khan, `Fremont`
+- Zeugma Kebab - `San Jose`
 - Shah Restaurant - `Sunnyvale`
 - Cafe 220 - `Palo Alto`
 - Lados - `Sunnyvale`
