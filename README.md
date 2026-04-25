@@ -5,6 +5,7 @@ My favorite Halal restaurants in Bay Area in descending order of cravings over t
 - Cafe 220 - `Palo Alto (Esp. Crepes)`
 - Lahori Restaurant - `San Jose`
 - Lados - `Sunnyvale`
+- Rizq Halal Cafe in MCA - `Santa Clara`
 - Bundoo Khan - `Fremont`
 - Khan Karahi - `Fremont`
 - Wakatobi Grill - `Union City`
@@ -23,26 +24,30 @@ My favorite Halal restaurants in Bay Area in descending order of cravings over t
 - Kabab & Curry - `Santa Clara`
 - Naan n Curry - `Daly City`
 - Madina Kabob House - `Santa Clara`
+- Oakmont Sandwiches - `Cupertino`
 - Wings Plus - `SF`
 - Chicken G's - `Mountain View`
 - Zuegma Kebab - `San Jose`
 - Li Zhou Chinese - `Union City`
 - YeeShaans Grubb - `San Mateo`
-- Port of Peri Peri - `Fremont`
-
+- Port of Peri Peri - `Santa Clara`, `Fremont`
+- Nahita Bakery - `Cupertino`
 
 ### Late Night Options:
-- Chicken G - `Mountain View, Fremont`
+- Qamaria Yemeni Coffee - `Fremont`
+- Chicken G - `Mountain View`, `Fremont`
 - Bundoo Khan, `Fremont`
 - Zeugma Kebab - `San Jose`
 - Shah Restaurant - `Sunnyvale`
 - Cafe 220 - `Palo Alto`
-- Lados - `Sunnyvale`
 - Khan Karahi Kabab - `Fremont`
 - Pot of Peri Peri - `Fremont`
 - Pakwan - `Fremont`
 - Curry Leaf - `SF`
 - Eden Silk Road - `Fremont, San Mateo`
+
+### Coffee
+- Kenz Coffee Bar `Kenz Coffee Bar`
 
 ### Honorable mentions:
 - Wakatobi Grill Japanese - `Monterey`
